@@ -1,5 +1,5 @@
 # nuxtmovie
-
+todo refactor this repository
 ## Build Setup
 
 ```bash
